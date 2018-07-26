@@ -1,0 +1,14 @@
+body {
+    margin:0;
+    background:#FFF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#navmenu {
+    background: #828212;
+    position: fixed;
+    top:0;
+    width:100%;
+    display: block;
+    transition:top 0.10s;
+}
