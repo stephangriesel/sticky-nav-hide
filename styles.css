@@ -10,7 +10,7 @@ body {
     top:0;
     width:100%;
     display: block;
-    transition:top 0.10s;
+    transition:top 5s;
 }
 
 #navmenu a {
