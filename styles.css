@@ -18,6 +18,33 @@ body {
     display: block;
     color:#f2f2f2;
     text-decoration: none;
-    margin:2em;
+    margin:1em;
     font-size:1em;
 }
+
+h1 {
+    font-weight:600;
+}
+
+.content {
+    margin:5em;
+    text-align: justify;
+}
+
+p {
+    color: #979797;
+    line-height:25px;
+}
+
+@media (max-width: 815px) {
+    #navmenu a {
+        width:100%;
+        font-size:20px;
+        text-align: center;
+    }
+
+    .content {
+        padding-top:20em;
+    }
+}
+
